@@ -117,17 +117,17 @@ flutter_icons:
 
 flutter_native_splash:
   color: "#25939f"
-  image: assets/icons/logo1.png
+  image: assets/images/logoApp.jpg
   color_dark: "#25939f"
-  image_dark: assets/icons/logo1.png
+  image_dark: assets/images/logoApp.jpg
 
 
   android_12:
-    image: assets/icons/logo.png
+    image: assets/images/logoApp.jpg
     color: "#25939f"
     icon_background_color: "#25939f"
 
-    image_dark: assets/icons/logo.png
+    image_dark: assets/images/logoApp.jpg
     color_dark: "#25939f"
     icon_background_color_dark: "#25939f"
 
